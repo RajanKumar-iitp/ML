@@ -1,0 +1,1 @@
+Create the Decsison tree using Gini index and compare the Evaluation parameter for the with entropy.   
