@@ -1,1 +1,0 @@
-calculate the MSE, MAE & RMSE | R2 Score & Adjusted R2 Score for the iris Dataset
