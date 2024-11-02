@@ -22,7 +22,8 @@ Welcome to my repository of machine learning works! This collection showcases va
   
 # Current Projects :-
 	•	ML Full Implementation Project : 
-     A detailed project that implements various machine learning algorithms from scratch, providing insights into their workings and applications.
+     A detailed project that implements various machine learning algorithms from scratch,
+     providing insights into their workings and applications.
  
  # Technologies Used: 
     This repository utilizes a variety of technologies including:
