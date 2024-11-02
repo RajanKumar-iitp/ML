@@ -4,7 +4,8 @@ Welcome to my repository of machine learning works! This collection showcases va
 
 
 # Current ML Core Algorithms and Techniques:-
-    This repository currently includes several foundational machine learning projects, each designed to demonstrate core algorithms and techniques. Below is a list of the existing projects:
+    This repository currently includes several foundational machine learning projects, each designed to demonstrate core algorithms and techniques. 
+    Below is a list of the existing Algorithms :
 	•	DBSCAN Lab
 	•	Decision Tree Lab
 	•	Gradient Descent Lab
@@ -18,7 +19,8 @@ Welcome to my repository of machine learning works! This collection showcases va
 	•	Logistic Regression Lab
 	•	Polynomial Regression Lab
  
-    Along with these, there are plans for future content that will cover a wider range of machine learning concepts and applications.
+    Along with these, there are plans for future content that 
+    will cover a wider range of machine learning concepts and applications.
   
 # Current Projects :-
 	•	ML Full Implementation Project : 
